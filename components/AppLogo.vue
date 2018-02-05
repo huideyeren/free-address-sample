@@ -7,9 +7,7 @@
 </template>
 
 <style lang="scss">
-$vue-green-light: #41B883;
-$vue-green-dark: #3B8070;
-$vue-gray: #35495E;
+@import "assets/scss/base.scss";
 
 .VueToNuxtLogo {
   display: inline-block;

@@ -1,5 +1,12 @@
 module.exports = {
   /*
+  ** Add-on CSS, SCSS
+  */
+  css: [
+    "bulma",
+    "@/assets/scss/base.scss"
+  ],
+  /*
   ** Headers of the page
   */
   head: {
